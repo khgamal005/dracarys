@@ -46,7 +46,8 @@ const Footer = () => {
             <button className='custom_button' onClick={() => route('/')}>Subscribe</button>
           </Col>
         </Row>
-        <div className='copyright'>Copyright ©2022 All rights reserved | This template is made with 🤍🤎 by Zaki</div>
+        <div className='copyright'>Copyright ©2022 All rights reserved | This template is made with 🤍🤎 by khaled
+        </div>
       </Container>
     </footer>
   )
