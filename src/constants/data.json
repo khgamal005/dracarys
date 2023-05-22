@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 36,
+    "name": "shirt",
+    "category": "Men ",
+    "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
+    "oldprice": 150,
+    "price": 130,
+    "num": 1
+  },
+  {
+    "id": 18,
+    "name": "Dress",
+    "category": "Women",
+    "img": "https://i.ibb.co/cXFnLLV/3.png",
+    "price": 800,
+    "num": 1
+  },
+  {
+    "id": 19,
+    "name": "Dress",
+    "category": "Women",
+    "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+    "price": 9400,
+    "num": 1
+  },
+  {
+    "id": 20,
+    "name": "Jacket",
+    "category": "Women onsale",
+    "img": "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    "oldprice": 2300,
+    "price": 2000,
+    "num": 1
+  },
+  {
+    "id": 21,
+    "name": "Shirt",
+    "category": "Men onsale",
+    "img": "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    "oldprice": 400,
+    "price": 300,
+    "num": 1
+  },
+  {
+    "id": 22,
+    "name": "Bag",
+    "category": "Accessories",
+    "img": "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    "price": 700,
+    "num": 1
+  },
+  {
+    "id": 37,
+    "name": "shirts",
+    "category": "Men",
+    "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
+    "price": 400,
+    "num": 1
+  },
+  {
+    "id": 1,
+    "name": "nivea",
+    "category": "Accessories onsale",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-6f97429f-666b-4928-972c-6c25f389c1c8-1683505366370-cover.jpeg",
+    "oldprice": 50,
+    "price": 20,
+    "num": 1
+  },
+  {
+    "id": 2,
+    "name": "Shoes",
+    "category": "shoes onsale",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-52e2c099-abed-4d20-884f-6fab370b0bfd-1683504888851-cover.jpeg",
+    "oldprice": 400,
+    "price": 200,
+    "num": 1
+  },
+  {
+    "id": 3,
+    "name": " jacket Black",
+    "category": "Men ",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-63dae057-cf63-4020-adc6-1781e61458a7-1683504139978-cover.jpeg",
+    "oldprice": 520,
+    "price": 200,
+    "num": 3
+  },
+  {
+    "id": 38,
+    "name": "oppo",
+    "category": "watches",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-39f09183-e68a-4252-8a90-a7b401024a62-1683503625721-cover.jpeg",
+    "oldprice": 1500,
+    "price": 1300,
+    "num": 9
+  },
+  {
+    "id": 5,
+    "name": "oppo",
+    "category": "watches",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-580c41c3-86b3-44b8-bda1-07a7f9fd3844-1683503625759-2.webp",
+    "oldprice": 250,
+    "price": 100,
+    "num": 1
+  },
+  {
+    "id": 39,
+    "name": "honor",
+    "category": "watches",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-7ae69ed6-3c17-4adf-94cf-366278514df8-1683503216207-3.jpeg",
+    "oldprice": 2000,
+    "price": 1800,
+    "num": 1
+  },
+  {
+    "id": 7,
+    "name": "Apple",
+    "category": "watches",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-95c303c0-1d5a-4fbc-91b1-213c31e01243-1683503004309-cover.jpeg",
+    "oldprice": 600,
+    "price": 550,
+    "num": 1
+  },
+  {
+    "id": 40,
+    "name": "Realme",
+    "category": "watches",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-092b49ea-4f7f-4775-aba6-f241efcf8991-1683502764425-cover.webp",
+    "oldprice": 400,
+    "price": 350,
+    "num": 1
+  },
+  {
+    "id": 41,
+    "name": "Shoes",
+    "category": "Shoes",
+    "img": "https://ecommerce-backend-v5ja.onrender.com/products/products-44e39953-83c8-47bc-a14a-d1d7ca4b2fbe-1683504473128-1.jpeg",
+    "oldprice": 140,
+    "price": 120,
+    "num": 7
+  },
+  {
+    "id": 10,
+    "name": "kids",
+    "category": "Kids",
+    "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
+    "oldprice": 1000,
+    "price": 900,
+    "num": 1
+  },
+  {
+    "id": 16,
+    "name": "Dress",
+    "category": "Women onsale",
+    "img": "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "oldprice": 980,
+    "price": 800,
+    "num": 1
+  }
+  
+  
+]
